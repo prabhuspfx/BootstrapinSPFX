@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "bootsterapin-spfx-client-side-solution",
+    "id": "c80cb7cf-8cf5-4f8d-b07b-273eb7e766b0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/bootsterapin-spfx.sppkg"
+  }
+}

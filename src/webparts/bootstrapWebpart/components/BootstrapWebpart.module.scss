@@ -1,0 +1,9 @@
+.boostrapStyles {
+
+  :global{
+  @import 'bootstrap';        // base of bootstrap 
+  @import 'bootstrap-grid'; // our component for the web part
+  @import 'bootstrap-reboot'; // our component for the web part
+  }
+
+}
